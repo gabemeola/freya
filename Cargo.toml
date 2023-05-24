@@ -28,7 +28,7 @@ torin = { path = "torin", version = "0.1.0" }
 dioxus = { git = "https://github.com/DioxusLabs/dioxus", rev="0527cff3a59ba3176f7510a7234c5977ce1b17d7" }
 dioxus-native-core-macro = { git = "https://github.com/DioxusLabs/dioxus", rev="0527cff3a59ba3176f7510a7234c5977ce1b17d7" }
 dioxus-rsx = { git = "https://github.com/DioxusLabs/dioxus", rev="0527cff3a59ba3176f7510a7234c5977ce1b17d7" }
-dioxus-native-core = { git = "https://github.com/DioxusLabs/dioxus", rev="0527cff3a59ba3176f7510a7234c5977ce1b17d7", features=["dioxus"] }
+dioxus-native-core = { version = "0.3.0" }
 dioxus-core-macro = { git = "https://github.com/DioxusLabs/dioxus", rev="0527cff3a59ba3176f7510a7234c5977ce1b17d7" }
 dioxus-hooks = { git = "https://github.com/DioxusLabs/dioxus", rev="0527cff3a59ba3176f7510a7234c5977ce1b17d7" }
 dioxus-core = { git = "https://github.com/DioxusLabs/dioxus", rev="0527cff3a59ba3176f7510a7234c5977ce1b17d7" }
